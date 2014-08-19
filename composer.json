@@ -6,13 +6,13 @@
 	"license": "BSD-2",
 	"require": {
 		"php": ">=5.4.10",
-		"freia/autoloader": "1.0.0",
+		"freia/autoloader": "1.1.0",
 		"hlin/archetype": "1.1.0",
 		"hlin/attribute": "1.0.0",
 		"hlin/security": "1.0.0",
 		"hlin/tools": "1.1.1",
 		"fenrir/system": "1.1.1",
-		"fenrir/tools": "1.1.1",
+		"fenrir/tools": "1.1.2",
 		"ran/tools": "1.0.0"
 	}
 }
