@@ -11,10 +11,10 @@
 		"hlin/archetype": "1.2.1",
 		"hlin/attribute": "1.0.1",
 		"hlin/security": "1.0.3",
-		"hlin/tools": "1.3.1",
+		"hlin/tools": "1.3.2",
 		"hlin/profiler": "1.0.1",
 		"fenrir/system": "1.1.5",
-		"fenrir/tools": "1.1.3",
+		"fenrir/tools": "1.1.4",
 		"ran/tools": "1.0.2"
 	}
 }
