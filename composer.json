@@ -7,14 +7,14 @@
 	"license": "BSD-2-Clause",
 	"require": {
 		"php": ">=5.4.10",
-		"freia/autoloader": "1.3.2",
+		"freia/autoloader": "1.3.3",
 		"hlin/archetype": "1.4.0",
 		"hlin/attribute": "1.0.1",
 		"hlin/security": "1.0.3",
 		"hlin/tools": "1.4.0",
 		"hlin/profiler": "1.0.1",
-		"fenrir/system": "1.2.1",
-		"fenrir/tools": "1.1.7",
+		"fenrir/system": "1.2.2",
+		"fenrir/tools": "1.1.8",
 		"ran/tools": "1.0.2"
 	}
 }
