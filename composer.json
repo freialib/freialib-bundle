@@ -10,11 +10,11 @@
 		"freia/autoloader": "1.4.1",
 		"hlin/archetype": "1.4.0",
 		"hlin/attribute": "1.0.1",
-		"hlin/security": "1.0.3",
+		"hlin/security": "1.0.4",
 		"hlin/tools": "1.5.0",
 		"hlin/profiler": "1.0.1",
 		"fenrir/system": "1.5.1",
-		"fenrir/tools": "1.1.10",
+		"fenrir/tools": "1.2.0",
 		"ran/tools": "1.0.2"
 	}
 }
